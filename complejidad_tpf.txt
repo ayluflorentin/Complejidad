@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 19:08...
+1>------ Operación Compilar iniciada: Proyecto: ComplejidadTPF, configuración: Debug Any CPU ------
+1>  ComplejidadTPF -> C:\Complejidad\ComplejidadTPF\ComplejidadTPF\bin\Debug\ComplejidadTPF.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 19:08 y tardó 00,480 segundos ==========
